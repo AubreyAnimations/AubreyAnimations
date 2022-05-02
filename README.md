@@ -1,7 +1,7 @@
 - Heyo! I’m @AubreyAnimations
 - I’m interested in art, animation, music, and gaming
 - I’m currently learning Javascript and HTML coding
-- I’m looking to collaborate on a horror game called "Nanospector"
+- I’m looking to begin working on a horror game called "Nanospector"
 - You can reach me at my email aubrey.animations1@gmail.com as well as on discord @AubreyAnimations#3190
 
 <!---
